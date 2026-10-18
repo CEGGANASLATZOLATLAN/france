@@ -1,0 +1,6 @@
+duckdb
+pandas
+numpy
+pydeck
+plotly
+jupyterlab

@@ -1,0 +1,9 @@
+france.duckdb
+france.duckdb.wal
+anfr/
+gtfs/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
